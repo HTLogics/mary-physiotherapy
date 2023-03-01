@@ -245,14 +245,14 @@ legend {
 }
 
 .header-1 .navbar .navbar-nav .nav-item a {
-    font-family: Manrope, serif;
+    font-family: 'Raleway', sans-serif;
     color: #303b41
 }
 
 .header-1 .navbar .navbar-nav .nav-item>a {
     text-transform: uppercase;
     text-align: center;
-    font-weight: 800;
+    font-weight: 700;
     overflow: hidden;
     position: relative;
     display: flex;
@@ -415,15 +415,15 @@ button:focus {
     align-items: center;
     justify-content: center;
     font-family: Manrope, sans-serif;
-    border-radius: .125rem;
-    padding: .75rem 2rem;
+    border-radius: 0.125rem;
+    padding: 0.75rem 2rem;
     font-size: .8175rem;
     font-weight: 900;
     letter-spacing: 1px;
     text-transform: uppercase;
     overflow: hidden;
     -webkit-transition: 350ms ease all;
-    transition: 350ms ease all
+    transition: 350ms ease all;
 }
 
 .btn.focus,
