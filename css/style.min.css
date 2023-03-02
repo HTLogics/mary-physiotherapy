@@ -2686,7 +2686,7 @@ p>.icon-right {
 }
 
 .testimonial-1:before {
-    content: url(../images/quote-primary.svg);
+    content: url(images/quote-primary.svg);
     position: absolute;
     top: 0;
     width: 3.75rem;
@@ -2793,7 +2793,7 @@ p>.icon-right {
 }
 
 .testimonial-2:before {
-    content: url(../images/quote-primary.svg);
+    content: url(images/quote-primary.svg);
     position: absolute;
     top: 1.25rem;
     left: 2.5rem;
@@ -5184,7 +5184,7 @@ a.btn.btn-primary.mt-40 {
 
 .mt-80 .text-white:before {
     content: "";
-    background-image: url(/images/line-left.png);
+    background-image: url(images/line-left.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -5198,7 +5198,7 @@ a.btn.btn-primary.mt-40 {
 
 .mt-80 .text-white:after {
     content: "";
-    background-image: url(/images/line-right.png);
+    background-image: url(images/line-right.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: scroll;

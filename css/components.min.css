@@ -876,7 +876,7 @@ button:focus {
 
 .page-header {
     position: relative;
-    background-image: url(../images/page-header.jpg);
+    background-image: url(images/page-header.jpg);
     background-size: cover;
     background-position: center center;
     margin: 0;
