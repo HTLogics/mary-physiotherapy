@@ -638,7 +638,7 @@ a.pp_arrow_previous {
 }
 
 .pp_gallery li.default a img {
-    display: none
+    display: none;
 }
 
 .pp_gallery .pp_arrow_next,

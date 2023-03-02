@@ -3287,7 +3287,7 @@ footer .widget-links ul li+li {
 }
 
 footer .widget-links ul li:before {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'ionicons';
     content: "\e9d4";
     color: #427cc5;
     font-size: .8125rem;
@@ -3308,7 +3308,7 @@ footer .widget-twitter .tweets {
 }
 
 footer .widget-twitter .tweets:before {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'ionicons';
     content: "\ebc8";
     position: absolute;
     color: #1da1f2;
@@ -5170,7 +5170,7 @@ footer.footer-2 hr {
 }}
 
 h3.heading.font-20.text-white.text-lh-5.font-bold.mb-0 {
-    font-size: 53px !important;
+    font-size: 53px !important;   
 }
 a.btn.btn-primary.mt-40 {
     height: 50px;
@@ -5208,4 +5208,9 @@ a.btn.btn-primary.mt-40 {
     display: inline-block;
     vertical-align: middle;
     margin: 0 0 0 30px;
+}
+
+.col-lg-8.text-center.pt-40.pb-40 {
+    background: #100f0f33;
+    padding: 40px 20px !important;
 }
