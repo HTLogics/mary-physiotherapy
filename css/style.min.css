@@ -5181,35 +5181,6 @@ a.btn.btn-primary.mt-40 {
     color: #394657 !important;
     text-align: center;
 }
-
-.mt-80 .text-white:before {
-    content: "";
-    background-image: url(images/line-left.png);
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-attachment: scroll;
-    background-size: cover;
-    width: 90px;
-    height: 25px;
-    display: inline-block;
-    vertical-align: middle;
-    margin: 0 30px 0 0;
-}
-
-.mt-80 .text-white:after {
-    content: "";
-    background-image: url(images/line-right.png);
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-attachment: scroll;
-    background-size: cover;
-    width: 90px;
-    height: 25px;
-    display: inline-block;
-    vertical-align: middle;
-    margin: 0 0 0 30px;
-}
-
 .col-lg-8.text-center.pt-40.pb-40 {
     background: #100f0f33;
     padding: 40px 20px !important;
