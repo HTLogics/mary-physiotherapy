@@ -41,7 +41,7 @@ h4,
 h5,
 h6 {
     font-family: 'Raleway', sans-seri;
-    color: #1a1a1a;
+    color: #394657;
     margin-top: 0;
     margin-bottom: .8em;
     line-height: 1.2
@@ -317,8 +317,9 @@ blockquote img.quotes {
     margin-top: 7.5rem !important
 }
 
-.mb-0 {
+.covid .mb-1 {
     margin-bottom: 12px !important;
+    text-align: center;
 }
 
 .mb-10 {
@@ -347,10 +348,6 @@ blockquote img.quotes {
 
 .mb-70 {
     margin-bottom: 4.375rem !important
-}
-
-.mb-80 {
-    margin-bottom: 5rem !important
 }
 
 .mb-90 {
@@ -5179,4 +5176,36 @@ a.btn.btn-primary.mt-40 {
     height: 50px;
     font-size: 12px;
     border-radius: 3px;
+}
+.covid h3 {
+    color: #394657 !important;
+    text-align: center;
+}
+
+.mt-80 .text-white:before {
+    content: "";
+    background-image: url(/images/line-left.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    width: 90px;
+    height: 25px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 30px 0 0;
+}
+
+.mt-80 .text-white:after {
+    content: "";
+    background-image: url(/images/line-right.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    width: 90px;
+    height: 25px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 0 0 30px;
 }
