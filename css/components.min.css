@@ -349,7 +349,7 @@ legend {
     top: 3px
 }
 
-.header-1 .navbar .has-menu.open-menu:after {
+.header-1 .navbar .has-menu .open-menu:after {
     content: "\ecca";
     color: #427cc5
 }
