@@ -5,9 +5,7 @@ html {
     margin: 0;
     padding: 0
 }
-html, body {
-    overflow-x: hidden;
-}
+
 html {
     font-size: 16px
 }
@@ -5234,5 +5232,8 @@ a.btn.btn-primary.mt-40 {
 @media only screen and (max-width:420px) {
     h3.heading.font-20.text-white.text-lh-5.font-bold.mb-0 {
         font-size: 30px !important;
+    }
+    html, body {
+        overflow-x: hidden;
     }
 }
