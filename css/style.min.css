@@ -5228,3 +5228,9 @@ a.btn.btn-primary.mt-40 {
     padding-top: 0px !important;
     padding-bottom: 0px !important;
 }
+
+@media only screen and (max-width:420px) {
+    h3.heading.font-20.text-white.text-lh-5.font-bold.mb-0 {
+        font-size: 30px !important;
+    }
+}
